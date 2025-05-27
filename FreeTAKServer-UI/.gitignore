@@ -2,7 +2,9 @@
 docker-compose.yml
 Dockerfile
 
-config.py
+# Should this be managed or not?
+# config.py
+
 FTSServer-UI.db
 MANIFEST.in
 setup.py
