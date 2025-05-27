@@ -36,7 +36,7 @@ cd /usr/local/lib/python3.8/dist-packages/FreeTAKServer-UI
 ```
 
 ```
-nohup   sudo python3 run.py
+nohup sudo python3 run.py
 ```
 
 ## Dashboard Features
