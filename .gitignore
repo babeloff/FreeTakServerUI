@@ -1,20 +1,11 @@
 venv/
 *.pyc
-error.log
-MANIFEST.in
-requirements.txt
-setup.py
+*.log
+# MANIFEST.in
+# requirements.txt
+
+# The IDE configuration
 .idea/
 .vscode/
 
-FreeTAKServer-UI/.gitignore
-FreeTAKServer-UI/config.py
-FreeTAKServer-UI/docker-compose.yml
-FreeTAKServer-UI/Dockerfile
-FreeTAKServer-UI/FTSServer-UI.db
-FreeTAKServer-UI/MANIFEST.in
-FreeTAKServer-UI/setup.py
-FreeTAKServer-UI/.idea/
-FreeTAKServer-UI/env1/
-FreeTAKServer-UI/node_modules/
 FreeTAKServer_UI.egg-info/
