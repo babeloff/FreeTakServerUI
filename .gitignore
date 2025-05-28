@@ -1,11 +1,24 @@
+# Various Virtual Environments
 venv/
-*.pyc
+/.pixi/
+
+# Lockfiles : help is repeatable builds
+# /pixi.lock
+# /poetry.lock
+
+# Precompiled stuff
+*.py[cod]
 *.log
-# MANIFEST.in
-# requirements.txt
+*.egg-info/
 
 # The IDE configuration
-.idea/
-.vscode/
+/.idea/
+/.vscode/
 
-FreeTAKServer_UI.egg-info/
+# Some tooling uses the requirements.txt file to identify dependencies
+# requirements.txt
+# requirements_dev.txt
+# requirements-pqsql.txt
+
+# Miscellaneous
+# MANIFEST.in
